@@ -1,6 +1,6 @@
 # Astro Pi 2022/23
 
-> NOTA: Questa repository è una fork dell'[originale](https://github.com/pandle/astro-pi-2022-2023), riportata su questo account per semplicità di visualizzazione.
+> NOTA: Questa repository è una fork dell'[originale](https://github.com/pandle/astro-pi-2022-23), riportata su questo account per semplicità di visualizzazione.
 
 This repository contains the study and report of experiments with the [Astro Pi](https://github.com/raspberrypilearning/astro-pi-guide)
 for the [European Astro Pi Challenge 2022/23](https://astro-pi.org/), [Mission Space Lab](https://astro-pi.org/mission-space-lab/) (see [details](https://www.raspberrypi.org/blog/768-teams-entered-astro-pi-mission-space-lab-2022-23/) to know some numbers).
